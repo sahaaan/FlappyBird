@@ -1,0 +1,20 @@
+# Java gitignore
+*.class
+*.jar
+/bin/
+/target/
+.settings/
+.classpath
+.project
+
+# IDE specific
+.vscode/
+.idea/
+
+# Build and dependency directories
+target/
+build/
+
+# Logs and temporary files
+*.log
+tmp/
